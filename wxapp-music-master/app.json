@@ -1,0 +1,17 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/webview/index",
+    "pages/list/list",
+    "pages/logs/logs"
+  ],
+  "requiredBackgroundModes": [
+    "audio"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#e21918",
+    "navigationBarTitleText": "承易启慧",
+    "navigationBarTextStyle":"white"
+  }
+}

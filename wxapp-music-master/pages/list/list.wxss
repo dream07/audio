@@ -1,0 +1,48 @@
+/*5*/
+.list{
+  position: absolute;
+  top: 150rpx;
+  height: 100%;
+  width: 100%;
+  color: #fff;
+}
+.list-one{
+  height: 160rpx;
+  display: flex;
+  padding: 0 30rpx;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+.list-one-poster{
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 10rpx;
+}
+.list-one-right{
+  width: 70%;
+  margin: 0 0 0 30rpx;
+}
+.list-one-choose{
+  background-color: rgba(54, 43, 41, 0.6);
+}
+.list-index{
+  display: block;
+  width: 60rpx;
+  height: 60rpx;
+  background-color: #c2c2c2;
+  text-align: center;
+  border-radius: 60rpx;
+  line-height: 60rpx;
+  margin-right: 20rpx;
+}
+.question{
+  position:fixed;
+  justify-content:flex-end;
+  display:flex;
+  width:100%;
+  padding-right:60rpx;
+  font-size:12px;
+  color:#fff;
+}
